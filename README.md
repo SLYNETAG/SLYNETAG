@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SLYNETAG
-- 👀 I’m interested in hosting services, automation projects, msp's
+- 👀 I’m interested in hosting services, automation projects, msp stuff
 - 🌱 I’m always learning a lot
 - 📫 How to reach me support@slynet.ch
 - :earth_americas: [www.slynet.ch](https://www.slynet.ch)
